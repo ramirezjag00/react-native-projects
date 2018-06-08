@@ -4,13 +4,15 @@
 
 ### DESCRIPTION:
 
-- react-native apps using components of react-native, react, redux, styling, es6 syntax, eslint, firebase (authentication), axios
+- react-native apps using components of react-native, react, redux, styling, es6 syntax, eslint, firebase (authentication && database), axios
 
 - used react-native-cli capable of running the app on ios or android
 
 #### TO START:
 
-- clone project
+- clone into a project
+
+- configure firebase auth/database
 
 - in terminal, cd into a project dir and npm install
 
